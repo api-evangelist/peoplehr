@@ -66,7 +66,7 @@
 
 PeopleHR provides a cloud‑based HR software platform for small and medium businesses, offering modules for core HR, recruitment, performance management, payroll, time‑and‑attendance, and employee self‑service. The solution helps organisations automate HR processes, stay compliant with employment law, and improve employee experience through an AI‑driven HR assistant.
 
-**Areas:** Company · HR · SaaS · Payroll · Recruitment
+**Areas:** Company · HR · SaaS · Payroll · Recruitment · HRTech · EmployeeManagement
 
 ## Where to find this API
 
@@ -79,6 +79,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Pricing](https://www.peoplehr.com/en-gb/pricing/)
 - [Support](https://www.peoplehr.com/en-gb/forms/contact-us/)
 - [Blog](https://www.peoplehr.com/en-gb/resources/blog/)
+
+**APIs profiled:** 1
 
 ## API Evangelist rating
 
