@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PeopleHR is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://peoplehr.com/
+PeopleHR provides a cloud‑based HR software platform for small and medium businesses, offering modules for core HR, recruitment, performance management, payroll, time‑and‑attendance, and employee self‑service. The solution helps organisations automate HR processes, stay compliant with employment law, and improve employee experience through an AI‑driven HR assistant.
+
+**Areas:** Company · HR · SaaS · Payroll · Recruitment
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.peoplehr.com/en-gb/)
+- [Documentation](https://www.peoplehr.com/en-gb/)
+- [Getting started](https://www.peoplehr.com/en-gb/)
+- [API reference](https://www.peoplehr.com/en-gb/api)
+- [Pricing](https://www.peoplehr.com/en-gb/pricing/)
+- [Support](https://www.peoplehr.com/en-gb/forms/contact-us/)
+- [Blog](https://www.peoplehr.com/en-gb/resources/blog/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/peoplehr/](https://apis.io/providers/peoplehr/).
